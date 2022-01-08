@@ -1,0 +1,13 @@
+{% extends "layout.html" %}
+
+{% block title %}
+    Quote
+{% endblock %}
+
+ {% block main %}
+     <form action="/quote" method="POST">
+         <label>Search using a symbol</label><br>
+         <input name="symbol" type="text" placeholder="Symbol">
+         <button class="btn btn-primary" type="submit">Search</button>
+     </form>
+ {% endblock %}
