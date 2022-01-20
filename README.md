@@ -3,9 +3,9 @@ A flask web application that allows users to manage (buy/sell) stocks. It integr
 
 ### Screenshots of the application
 ###### The Index Page - Lists all stocks owned by user
-![Index Page Display Error](/readme_imgs/index.png)\
+![Index Page Display Error](/readme_imgs/index.png)
 ###### The Quote Page - Shows the value of a certain stock
-![Quote Page Display Error](/readme_imgs/quote.png)\
+![Quote Page Display Error](/readme_imgs/quote.png)
 ###### The History Page - Shows history of all transactions
 ![History Page Display Error](/readme_imgs/history.png)
 
