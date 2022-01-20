@@ -19,4 +19,3 @@ A flask web application that allows users to manage (buy/sell) stocks. It integr
 
     > INFO:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
 
-### Explanation of files/folders
