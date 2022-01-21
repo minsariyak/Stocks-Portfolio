@@ -12,8 +12,8 @@ A flask web application that allows users to manage (buy/sell) stocks. It integr
     > INFO:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
 
 ### Application Strcuture & explanation of files/folders
-- **static:** all static data such as CSS files, JavaScript files, and images are stored in this folder as per Flask standards. 
-- **templates:** all HTML files of the application are stored in this folder as per Flask standards.
+- **/static:** all static data such as CSS files, JavaScript files, and images are stored in this folder as per Flask standards. 
+- **/templates:** all HTML files of the application are stored in this folder as per Flask standards.
 - **app.py:** a python file defining the backend logic of the application.
 - **helpers.py:** a python file defining functions that are used in "app.py" to simplify code readability.
 - **finance.db:** a SQLite database file which stores in various tables; registered users credentials, their purchased stocks, and a history of the interaction with each stock. 
